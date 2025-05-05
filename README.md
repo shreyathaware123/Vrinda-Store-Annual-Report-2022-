@@ -19,3 +19,6 @@ This project showcases an interactive Excel-based dashboard built to analyze Vri
 * **Pivot Table Analysis:** Summarized data across multiple dimensions (time, geography, demographics).
 * **Visualization Techniques:** Used line, bar, pie, stacked, and column charts for clear communication of insights.
 * **Dashboard Structuring:** Designed a user-friendly layout with interactive components for dynamic data exploration.
+
+* ![Vrinda store image](https://github.com/user-attachments/assets/7d655365-ddc5-469c-af4a-b000249029b6)
+
