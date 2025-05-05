@@ -20,5 +20,7 @@ This project showcases an interactive Excel-based dashboard built to analyze Vri
 * **Visualization Techniques:** Used line, bar, pie, stacked, and column charts for clear communication of insights.
 * **Dashboard Structuring:** Designed a user-friendly layout with interactive components for dynamic data exploration.
 
+* Below is the actual image of the "Vrinda Store Analysis Annual Report" that i have created:
+
 * ![Vrinda store image](https://github.com/user-attachments/assets/7d655365-ddc5-469c-af4a-b000249029b6)
 
