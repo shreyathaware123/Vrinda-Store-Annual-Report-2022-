@@ -1,10 +1,7 @@
-<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/69298a01-7d3a-4089-95b2-de04a0bbf94c" />      <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/8a34c9fb-dfc9-4442-a798-dfca74c7f16b" />      <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/ceb7ed2a-14d9-4d73-ab46-f8be21ef211a" />
-
-
-
-
 ## 📊 Vrinda Store Annual Report 2022 – Performance Analysis Dashboard           
 The Project  I  have showcases an interactive Excel-based dashboard built to analyze Vrinda Store’s annual performance for the year 2022. It highlights key business insights such as monthly sales trends, customer demographics, order statuses, and channel performance. The dashboard was designed to help stakeholders make informed strategic decisions to boost growth in 2023.
+
+  <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/69298a01-7d3a-4089-95b2-de04a0bbf94c" />    
 
 ### 🛠 Skills Applied
 
