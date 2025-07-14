@@ -1,4 +1,4 @@
-<img width="677" height="647" alt="image" src="https://github.com/user-attachments/assets/69298a01-7d3a-4089-95b2-de04a0bbf94c" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/69298a01-7d3a-4089-95b2-de04a0bbf94c" />
 
 
 ## 📊 Vrinda Store Annual Report 2022 – Performance Analysis Dashboard           
